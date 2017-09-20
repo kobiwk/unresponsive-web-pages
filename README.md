@@ -1,2 +1,2 @@
 # unresponsive-web-pages
-Exercise. Vanilla CSS, HTML, JS.
+Exercise. PSD to vanilla CSS, HTML, JS.
